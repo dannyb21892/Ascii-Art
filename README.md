@@ -5,4 +5,4 @@ A program that turns a .jpg into an ascii art text file.  This code is meant to 
 
 asciipic2('dan.jpg',2.2,'dan.txt');
 
-Make sure to suppress the output with a semicolon or else you'll get tons of text in MATLAB itself.  Once it run, go to the folder where both the function and the initial .jpg are stored to find the text file.  Before opening it in notepad, I'd recommend making sure that notepad's default font is Lucida Console on size 6.  Open it up and there you go!
+Make sure to suppress the output with a semicolon or else you'll get tons of text in MATLAB itself.  Once it runs, go to the folder where both the function and the initial .jpg are stored to find the text file.  Before opening it in notepad, I'd recommend making sure that notepad's default font is Lucida Console on size 6.  Open it up and there you go!
